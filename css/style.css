@@ -78,7 +78,8 @@
     .img-restro{
         margin-right: 0;
         width:100%;
-        height:auto;
+        height:50px;
+        width:50px;
         display:block;
         margin: 0 auto;
     }
